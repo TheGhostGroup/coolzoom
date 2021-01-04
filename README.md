@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/test/)](https://twitter.com/test/)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:test@test.test)](mailto:test@test.test)  
 
-[![Github Followers](https://img.shields.io/github/followers/coolzoom?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/theghostgroup?tab=followers)
+[![Github Followers](https://img.shields.io/github/followers/theghostgroup?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/theghostgroup?tab=followers)
 
 [![holy sweet](https://github-readme-stats.vercel.app/api?username=theghostgroup&show_icons=true&theme=cobalt)](https://github.com/theghostgroup)
 
